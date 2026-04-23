@@ -25,7 +25,7 @@ A scalable E-commerce Cart application built with React.js and Redux Toolkit, fe
 
 ## 🔗 Live Demo
 
-https://redux-shopzy.vercel.app/
+https://shopzy-cart.vercel.app/
 
 ---
 
